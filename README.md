@@ -95,7 +95,7 @@
 <div class='popup-box is-hide' id='popup-box'>
 <div aria-label='Close' class="popup-overlay" onclick='document.getElementById("popup-box").style.display="none";removeClassonBody();' role="button" tabindex="0"></div>
 <div class='popup-box-content'>
-        <a href='https://www.arlinadesign.com/2019/05/blogger-popup-banner-timeout.html' rel='noopener noreferrer' target='_blank' title='CSS ve Javascript Kodu ile Zamanlı Popup Afiş Reklam Alanı Oluşturma'>
+        <a href='https://androidlamine.blogspot.com' rel='noopener noreferrer' target='_blank' title='CSS ve Javascript Kodu ile Zamanlı Popup Afiş Reklam Alanı Oluşturma'>
             <div class='popup-content'>
                 <img alt='CSS ve Javascript Kodu ile Zamanlı Popup Afiş Reklam Alanı Oluşturma' height='318' src='https://3.bp.blogspot.com/-_C3Ymu7B5uI/XNC5mIlfYXI/AAAAAAAAKV0/DF87gIEF_Kg42QUIdPP4Mu1sf8vcTRCTgCLcBGAs/s1600/ramazan.webp' title='CSS ve Javascript Kodu ile Zamanlı Popup Afiş Reklam Alanı Oluşturma' width='635'
                 />
